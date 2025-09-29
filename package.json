@@ -1,0 +1,28 @@
+{
+  "name": "generator-try-nodejs",
+  "version": "1.0.0",
+  "description": "Yeoman generator to scaffold an ephemeral playground for quickly experimenting Node.js",
+  "keywords": [
+    "yeoman-generator",
+    "try",
+    "javascript",
+    "js",
+    "node",
+    "nodejs",
+    "webvv"
+  ],
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webvv/generator-try-fpts.git"
+  },
+  "license": "MIT",
+  "author": "Sahand Javid",
+  "main": "generators/app/index.js",
+  "dependencies": {
+    "yeoman-generator": "7.5.1"
+  },
+  "files": [
+    "generators"
+  ]
+}
