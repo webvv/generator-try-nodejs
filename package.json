@@ -1,6 +1,6 @@
 {
   "name": "generator-try-nodejs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Yeoman generator to scaffold an ephemeral playground for quickly experimenting Node.js",
   "keywords": [
     "yeoman-generator",
